@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="content_text">Test text constants!!! 1488 5051 Yes!</string>
+</resources>
